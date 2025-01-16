@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+.first-text {
+    color: red;
+    font-family: "Hurricane" ;
+    font-size: 50px ;
+    font-weight: bold;
+    text-align: center;
+    margin: 15px;
+    border: 10px solid rgb(255, 140, 8);
+    border-radius: 20px 80px 20px 80px ;
+}
+.second-text {
+    color: chartreuse;
+    font-family: cursive;
+    font-size: 25px;
+    text-align: end;
+    border-bottom: 5px solid rgb(9, 160, 247);
+    border-left: 5px solid rgb(9, 160, 247); ;
+    border-right: 5px solid rgb(9, 160, 247); ;
+    border-radius: 20px;
+}
